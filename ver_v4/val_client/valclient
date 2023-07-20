@@ -1,0 +1,449 @@
+Valclient start!
+Waiting for Omtree connection...
+Omtree connected
+Recieve Omtree Info
+[Parsing result] node_id : 0, mesh_id : -1, cluster_idx: -1, cluster_leader_id: -1, child_num: 3  30  37  48 
+[Parsing result] node_id : 1, mesh_id : 52, cluster_idx: 0, cluster_leader_id: 37, child_num: 3  25  33  49 
+[Parsing result] node_id : 2, mesh_id : 68, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 3, mesh_id : 68, cluster_idx: 3, cluster_leader_id: 67, child_num: 0 
+[Parsing result] node_id : 4, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 1  68 
+[Parsing result] node_id : 5, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 3  9  13  17 
+[Parsing result] node_id : 6, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 3  14  18  22 
+[Parsing result] node_id : 7, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 3  8  15  16 
+[Parsing result] node_id : 8, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 9, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 10, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 3  42  58  66 
+[Parsing result] node_id : 11, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 0 
+[Parsing result] node_id : 12, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 3  28  36  44 
+[Parsing result] node_id : 13, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 2  21  29 
+[Parsing result] node_id : 14, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 3  26  34  38 
+[Parsing result] node_id : 15, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 2  23  31 
+[Parsing result] node_id : 16, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 3  24  32  40 
+[Parsing result] node_id : 17, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 18, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 19, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 3  27  35  43 
+[Parsing result] node_id : 20, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 0 
+[Parsing result] node_id : 21, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 1  53 
+[Parsing result] node_id : 22, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 23, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 1  39 
+[Parsing result] node_id : 24, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 3  56  64  72 
+[Parsing result] node_id : 25, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 26, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 27, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 1  59 
+[Parsing result] node_id : 28, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 0 
+[Parsing result] node_id : 29, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 2  41  45 
+[Parsing result] node_id : 30, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 3  2  6  10 
+[Parsing result] node_id : 31, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 2  47  55 
+[Parsing result] node_id : 32, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 33, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 34, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 35, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 0 
+[Parsing result] node_id : 36, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 2  60  76 
+[Parsing result] node_id : 37, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 3  1  5  52 
+[Parsing result] node_id : 38, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 2  46  50 
+[Parsing result] node_id : 39, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 2  63  71 
+[Parsing result] node_id : 40, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 41, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 42, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 1  74 
+[Parsing result] node_id : 43, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 2  51  75 
+[Parsing result] node_id : 44, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 0 
+[Parsing result] node_id : 45, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 2  61  69 
+[Parsing result] node_id : 46, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 2  54  62 
+[Parsing result] node_id : 47, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 48, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 2  7  67 
+[Parsing result] node_id : 49, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 3  57  65  73 
+[Parsing result] node_id : 50, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 51, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 0 
+[Parsing result] node_id : 52, mesh_id : 1, cluster_idx: 4, cluster_leader_id: 52, child_num: 3  4  12  20 
+[Parsing result] node_id : 53, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 54, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 1  70 
+[Parsing result] node_id : 55, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 56, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 57, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 58, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 59, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 0 
+[Parsing result] node_id : 60, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 0 
+[Parsing result] node_id : 61, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 62, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 1  78 
+[Parsing result] node_id : 63, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 1  79 
+[Parsing result] node_id : 64, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 65, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 66, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 67, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 3  3  11  19 
+[Parsing result] node_id : 68, mesh_id : 3, cluster_idx: 4, cluster_leader_id: 52, child_num: 0 
+[Parsing result] node_id : 69, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 1  77 
+[Parsing result] node_id : 70, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 71, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 72, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+[Parsing result] node_id : 73, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 74, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 75, mesh_id : -1, cluster_idx: 3, cluster_leader_id: 67, child_num: 0 
+[Parsing result] node_id : 76, mesh_id : -1, cluster_idx: 4, cluster_leader_id: 52, child_num: 0 
+[Parsing result] node_id : 77, mesh_id : -1, cluster_idx: 0, cluster_leader_id: 37, child_num: 0 
+[Parsing result] node_id : 78, mesh_id : -1, cluster_idx: 2, cluster_leader_id: 30, child_num: 0 
+[Parsing result] node_id : 79, mesh_id : -1, cluster_idx: 1, cluster_leader_id: 48, child_num: 0 
+ 9 172.17.0.14:8000  13 172.17.0.18:8000  17 172.17.0.22:8000 [172.17.0.14:8000 172.17.0.18:8000 172.17.0.22:8000]
+ 14 172.17.0.19:8000  18 172.17.0.23:8000  22 172.17.0.27:8000 [172.17.0.19:8000 172.17.0.23:8000 172.17.0.27:8000]
+ 63 172.17.0.68:8000  71 172.17.0.76:8000 [172.17.0.68:8000 172.17.0.76:8000]
+ 57 172.17.0.62:8000  65 172.17.0.70:8000  73 172.17.0.78:8000 [172.17.0.62:8000 172.17.0.70:8000 172.17.0.78:8000]
+ 25 172.17.0.30:8000  33 172.17.0.38:8000  49 172.17.0.54:8000 [172.17.0.30:8000 172.17.0.38:8000 172.17.0.54:8000]
+ 8 172.17.0.13:8000  15 172.17.0.20:8000  16 172.17.0.21:8000 [172.17.0.13:8000 172.17.0.20:8000 172.17.0.21:8000]
+ 56 172.17.0.61:8000  64 172.17.0.69:8000  72 172.17.0.77:8000 [172.17.0.61:8000 172.17.0.69:8000 172.17.0.77:8000]
+ 74 172.17.0.79:8000 [172.17.0.79:8000]
+ 70 172.17.0.75:8000 [172.17.0.75:8000]
+ 77 172.17.0.82:8000 [172.17.0.82:8000]
+ 27 172.17.0.32:8000  35 172.17.0.40:8000  43 172.17.0.48:8000 [172.17.0.32:8000 172.17.0.40:8000 172.17.0.48:8000]
+ 21 172.17.0.26:8000  29 172.17.0.34:8000 [172.17.0.26:8000 172.17.0.34:8000]
+ 24 172.17.0.29:8000  32 172.17.0.37:8000  40 172.17.0.45:8000 [172.17.0.29:8000 172.17.0.37:8000 172.17.0.45:8000]
+ 1 172.17.0.6:8000  5 172.17.0.10:8000  52 172.17.0.57:8000 [172.17.0.6:8000 172.17.0.10:8000 172.17.0.57:8000]
+ 46 172.17.0.51:8000  50 172.17.0.55:8000 [172.17.0.51:8000 172.17.0.55:8000]
+ 3 172.17.0.8:8000  11 172.17.0.16:8000  19 172.17.0.24:8000 [172.17.0.8:8000 172.17.0.16:8000 172.17.0.24:8000]
+ 53 172.17.0.58:8000 [172.17.0.58:8000]
+ 60 172.17.0.65:8000  76 172.17.0.81:8000 [172.17.0.65:8000 172.17.0.81:8000]
+ 68 172.17.0.73:8000 [172.17.0.73:8000]
+ 59 172.17.0.64:8000 [172.17.0.64:8000]
+ 51 172.17.0.56:8000  75 172.17.0.80:8000 [172.17.0.56:8000 172.17.0.80:8000]
+ 54 172.17.0.59:8000  62 172.17.0.67:8000 [172.17.0.59:8000 172.17.0.67:8000]
+ 79 172.17.0.84:8000 [172.17.0.84:8000]
+ 28 172.17.0.33:8000  36 172.17.0.41:8000  44 172.17.0.49:8000 [172.17.0.33:8000 172.17.0.41:8000 172.17.0.49:8000]
+ 2 172.17.0.7:8000  6 172.17.0.11:8000  10 172.17.0.15:8000 [172.17.0.7:8000 172.17.0.11:8000 172.17.0.15:8000]
+ 7 172.17.0.12:8000  67 172.17.0.72:8000 [172.17.0.12:8000 172.17.0.72:8000]
+ 39 172.17.0.44:8000 [172.17.0.44:8000]
+ 26 172.17.0.31:8000  34 172.17.0.39:8000  38 172.17.0.43:8000 [172.17.0.31:8000 172.17.0.39:8000 172.17.0.43:8000]
+ 23 172.17.0.28:8000  31 172.17.0.36:8000 [172.17.0.28:8000 172.17.0.36:8000]
+ 47 172.17.0.52:8000  55 172.17.0.60:8000 [172.17.0.52:8000 172.17.0.60:8000]
+ 41 172.17.0.46:8000  45 172.17.0.50:8000 [172.17.0.46:8000 172.17.0.50:8000]
+ 30 172.17.0.35:8000  37 172.17.0.42:8000  48 172.17.0.53:8000 [172.17.0.35:8000 172.17.0.42:8000 172.17.0.53:8000]
+ 4 172.17.0.9:8000  12 172.17.0.17:8000  20 172.17.0.25:8000 [172.17.0.9:8000 172.17.0.17:8000 172.17.0.25:8000]
+ 61 172.17.0.66:8000  69 172.17.0.74:8000 [172.17.0.66:8000 172.17.0.74:8000]
+ 78 172.17.0.83:8000 [172.17.0.83:8000]
+ 42 172.17.0.47:8000  58 172.17.0.63:8000  66 172.17.0.71:8000 [172.17.0.47:8000 172.17.0.63:8000 172.17.0.71:8000]
+Connected to 172.17.0.28:8100
+Connected to 172.17.0.36:8100
+Connected to 172.17.0.30:8100
+Connected to 172.17.0.49:8100
+Connected to 172.17.0.37:8100
+Connected to 172.17.0.26:8100
+Connected to 172.17.0.27:8100
+Connected to 172.17.0.48:8100
+Connected to 172.17.0.76:8100
+Connected to 172.17.0.13:8100
+Connected to 172.17.0.66:8100
+Connected to 172.17.0.69:8100
+Connected to 172.17.0.81:8100
+Connected to 172.17.0.58:8100
+Connected to 172.17.0.71:8100
+Connected to 172.17.0.44:8100
+Connected to 172.17.0.75:8100
+Connected to 172.17.0.59:8100
+Connected to 172.17.0.84:8100
+Connected to 172.17.0.22:8100
+Connected to 172.17.0.54:8100
+Connected to 172.17.0.24:8100
+Connected to 172.17.0.79:8100
+Connected to 172.17.0.14:8100
+Connected to 172.17.0.15:8100
+Connected to 172.17.0.65:8100
+Connected to 172.17.0.45:8100
+Connected to 172.17.0.83:8100
+Connected to 172.17.0.9:8100
+Connected to 172.17.0.80:8100
+Connected to 172.17.0.53:8100
+Connected to 172.17.0.46:8100
+Connected to 172.17.0.47:8100
+Connected to 172.17.0.39:8100
+Connected to 172.17.0.78:8100
+Connected to 172.17.0.6:8100
+Connected to 172.17.0.17:8100
+Connected to 172.17.0.52:8100
+Connected to 172.17.0.70:8100
+Connected to 172.17.0.32:8100
+Connected to 172.17.0.8:8100
+Connected to 172.17.0.57:8100
+Connected to 172.17.0.25:8100
+Connected to 172.17.0.67:8100
+Connected to 172.17.0.18:8100
+Connected to 172.17.0.41:8100
+Connected to 172.17.0.38:8100
+Connected to 172.17.0.55:8100
+Connected to 172.17.0.56:8100
+Connected to 172.17.0.74:8100
+Connected to 172.17.0.19:8100
+Connected to 172.17.0.20:8100
+Connected to 172.17.0.73:8100
+Connected to 172.17.0.33:8100
+Connected to 172.17.0.34:8100
+Connected to 172.17.0.5:8100
+Connected to 172.17.0.12:8100
+Connected to 172.17.0.40:8100
+Connected to 172.17.0.63:8100
+Connected to 172.17.0.51:8100
+Connected to 172.17.0.68:8100
+Connected to 172.17.0.29:8100
+Connected to 172.17.0.16:8100
+Connected to 172.17.0.60:8100
+Connected to 172.17.0.31:8100
+Connected to 172.17.0.82:8100
+Connected to 172.17.0.50:8100
+Connected to 172.17.0.77:8100
+Connected to 172.17.0.10:8100
+Connected to 172.17.0.64:8100
+Connected to 172.17.0.43:8100
+Connected to 172.17.0.72:8100
+Connected to 172.17.0.7:8100
+Connected to 172.17.0.35:8100
+Connected to 172.17.0.62:8100
+Connected to 172.17.0.11:8100
+Connected to 172.17.0.61:8100
+Connected to 172.17.0.21:8100
+Connected to 172.17.0.42:8100
+Connected to 172.17.0.23:8100
+[sendTreeInfo] node: 172.17.0.49:8100, type : normal
+[sendTreeInfo] send to 172.17.0.49:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.81:8100, type : normal
+[sendTreeInfo] send to 172.17.0.81:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.51:8100, type : normal
+[sendTreeInfo] send to 172.17.0.51:8100 with message : makeTree|normal|172.17.0.59:8000|172.17.0.67:8000
+UDP server up and listening on port 9999
+[sendTreeInfo] node: 172.17.0.77:8100, type : normal
+[sendTreeInfo] send to 172.17.0.77:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.42:8100, type : normal
+[sendTreeInfo] send to 172.17.0.42:8100 with message : makeTree|normal|172.17.0.6:8000|172.17.0.10:8000|172.17.0.57:8000
+[sendTreeInfo] node: 172.17.0.57:8100, type : mesh
+[sendTreeInfo] send to 172.17.0.57:8100 with message : makeTree|normal|172.17.0.9:8000|172.17.0.17:8000|172.17.0.25:8000
+[sendTreeInfo] send to 172.17.0.57:8100 with message : makeTree|mesh|172.17.0.57:8200|172.17.0.6:8200
+[sendTreeInfo] node: 172.17.0.74:8100, type : normal
+[sendTreeInfo] send to 172.17.0.74:8100 with message : makeTree|normal|172.17.0.82:8000
+[sendTreeInfo] node: 172.17.0.82:8100, type : normal
+[sendTreeInfo] send to 172.17.0.82:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.52:8100, type : normal
+[sendTreeInfo] send to 172.17.0.52:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.34:8100, type : normal
+[sendTreeInfo] send to 172.17.0.34:8100 with message : makeTree|normal|172.17.0.46:8000|172.17.0.50:8000
+[sendTreeInfo] node: 172.17.0.68:8100, type : normal
+[sendTreeInfo] send to 172.17.0.68:8100 with message : makeTree|normal|172.17.0.84:8000
+[sendTreeInfo] node: 172.17.0.31:8100, type : normal
+[sendTreeInfo] send to 172.17.0.31:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.28:8100, type : normal
+[sendTreeInfo] send to 172.17.0.28:8100 with message : makeTree|normal|172.17.0.44:8000
+[sendTreeInfo] node: 172.17.0.69:8100, type : normal
+[sendTreeInfo] send to 172.17.0.69:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.53:8100, type : normal
+[sendTreeInfo] send to 172.17.0.53:8100 with message : makeTree|normal|172.17.0.12:8000|172.17.0.72:8000
+[sendTreeInfo] node: 172.17.0.35:8100, type : normal
+[sendTreeInfo] send to 172.17.0.35:8100 with message : makeTree|normal|172.17.0.7:8000|172.17.0.11:8000|172.17.0.15:8000
+[sendTreeInfo] node: 172.17.0.21:8100, type : normal
+[sendTreeInfo] send to 172.17.0.21:8100 with message : makeTree|normal|172.17.0.29:8000|172.17.0.37:8000|172.17.0.45:8000
+[sendTreeInfo] node: 172.17.0.27:8100, type : normal
+[sendTreeInfo] send to 172.17.0.27:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.65:8100, type : normal
+[sendTreeInfo] send to 172.17.0.65:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.60:8100, type : normal
+[sendTreeInfo] send to 172.17.0.60:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.6:8100, type : mesh
+[sendTreeInfo] send to 172.17.0.6:8100 with message : makeTree|normal|172.17.0.30:8000|172.17.0.38:8000|172.17.0.54:8000
+[sendTreeInfo] send to 172.17.0.6:8100 with message : makeTree|mesh|172.17.0.42:8200|172.17.0.57:8200
+[sendTreeInfo] node: 172.17.0.25:8100, type : normal
+[sendTreeInfo] send to 172.17.0.25:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.29:8100, type : normal
+[sendTreeInfo] send to 172.17.0.29:8100 with message : makeTree|normal|172.17.0.61:8000|172.17.0.69:8000|172.17.0.77:8000
+[sendTreeInfo] node: 172.17.0.61:8100, type : normal
+[sendTreeInfo] send to 172.17.0.61:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.44:8100, type : normal
+[sendTreeInfo] send to 172.17.0.44:8100 with message : makeTree|normal|172.17.0.68:8000|172.17.0.76:8000
+[sendTreeInfo] node: 172.17.0.79:8100, type : normal
+[sendTreeInfo] send to 172.17.0.79:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.46:8100, type : normal
+[sendTreeInfo] send to 172.17.0.46:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.45:8100, type : normal
+[sendTreeInfo] send to 172.17.0.45:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.39:8100, type : normal
+[sendTreeInfo] send to 172.17.0.39:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.8:8100, type : mesh
+[sendTreeInfo] send to 172.17.0.8:8100 with message : makeTree|normal
+[sendTreeInfo] send to 172.17.0.8:8100 with message : makeTree|mesh|172.17.0.72:8200|172.17.0.73:8200
+[sendTreeInfo] node: 172.17.0.64:8100, type : normal
+[sendTreeInfo] send to 172.17.0.64:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.72:8100, type : normal
+[sendTreeInfo] send to 172.17.0.72:8100 with message : makeTree|normal|172.17.0.8:8000|172.17.0.16:8000|172.17.0.24:8000
+[sendTreeInfo] node: 172.17.0.36:8100, type : normal
+[sendTreeInfo] send to 172.17.0.36:8100 with message : makeTree|normal|172.17.0.52:8000|172.17.0.60:8000
+[sendTreeInfo] node: 172.17.0.37:8100, type : normal
+[sendTreeInfo] send to 172.17.0.37:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.75:8100, type : normal
+[sendTreeInfo] send to 172.17.0.75:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.30:8100, type : normal
+[sendTreeInfo] send to 172.17.0.30:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.9:8100, type : normal
+[sendTreeInfo] send to 172.17.0.9:8100 with message : makeTree|normal|172.17.0.73:8000
+[sendTreeInfo] node: 172.17.0.11:8100, type : normal
+[sendTreeInfo] send to 172.17.0.11:8100 with message : makeTree|normal|172.17.0.19:8000|172.17.0.23:8000|172.17.0.27:8000
+[sendTreeInfo] node: 172.17.0.71:8100, type : normal
+[sendTreeInfo] send to 172.17.0.71:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.70:8100, type : normal
+[sendTreeInfo] send to 172.17.0.70:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.18:8100, type : normal
+[sendTreeInfo] send to 172.17.0.18:8100 with message : makeTree|normal|172.17.0.26:8000|172.17.0.34:8000
+[sendTreeInfo] node: 172.17.0.16:8100, type : normal
+[sendTreeInfo] send to 172.17.0.16:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.43:8100, type : normal
+[sendTreeInfo] send to 172.17.0.43:8100 with message : makeTree|normal|172.17.0.51:8000|172.17.0.55:8000
+[sendTreeInfo] node: 172.17.0.7:8100, type : mesh
+[sendTreeInfo] send to 172.17.0.7:8100 with message : makeTree|normal
+[sendTreeInfo] send to 172.17.0.7:8100 with message : makeTree|mesh|172.17.0.35:8200|172.17.0.73:8200
+[sendTreeInfo] node: 172.17.0.15:8100, type : normal
+[sendTreeInfo] send to 172.17.0.15:8100 with message : makeTree|normal|172.17.0.47:8000|172.17.0.63:8000|172.17.0.71:8000
+[sendTreeInfo] node: 172.17.0.38:8100, type : normal
+[sendTreeInfo] send to 172.17.0.38:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.20:8100, type : normal
+[sendTreeInfo] send to 172.17.0.20:8100 with message : makeTree|normal|172.17.0.28:8000|172.17.0.36:8000
+[sendTreeInfo] node: 172.17.0.67:8100, type : normal
+[sendTreeInfo] send to 172.17.0.67:8100 with message : makeTree|normal|172.17.0.83:8000
+[sendTreeInfo] node: 172.17.0.73:8100, type : mesh
+[sendTreeInfo] send to 172.17.0.73:8100 with message : makeTree|normal
+[sendTreeInfo] send to 172.17.0.73:8100 with message : makeTree|mesh|172.17.0.57:8200|172.17.0.8:8200
+[sendTreeInfo] node: 172.17.0.23:8100, type : normal
+[sendTreeInfo] send to 172.17.0.23:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.84:8100, type : normal
+[sendTreeInfo] send to 172.17.0.84:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.22:8100, type : normal
+[sendTreeInfo] send to 172.17.0.22:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.17:8100, type : normal
+[sendTreeInfo] send to 172.17.0.17:8100 with message : makeTree|normal|172.17.0.33:8000|172.17.0.41:8000|172.17.0.49:8000
+[sendTreeInfo] node: 172.17.0.26:8100, type : normal
+[sendTreeInfo] send to 172.17.0.26:8100 with message : makeTree|normal|172.17.0.58:8000
+[sendTreeInfo] node: 172.17.0.47:8100, type : normal
+[sendTreeInfo] send to 172.17.0.47:8100 with message : makeTree|normal|172.17.0.79:8000
+[sendTreeInfo] node: 172.17.0.78:8100, type : normal
+[sendTreeInfo] send to 172.17.0.78:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.56:8100, type : normal
+[sendTreeInfo] send to 172.17.0.56:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.19:8100, type : normal
+[sendTreeInfo] send to 172.17.0.19:8100 with message : makeTree|normal|172.17.0.31:8000|172.17.0.39:8000|172.17.0.43:8000
+[sendTreeInfo] node: 172.17.0.10:8100, type : normal
+[sendTreeInfo] send to 172.17.0.10:8100 with message : makeTree|normal|172.17.0.14:8000|172.17.0.18:8000|172.17.0.22:8000
+[sendTreeInfo] node: 172.17.0.62:8100, type : normal
+[sendTreeInfo] send to 172.17.0.62:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.66:8100, type : normal
+[sendTreeInfo] send to 172.17.0.66:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.14:8100, type : normal
+[sendTreeInfo] send to 172.17.0.14:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.55:8100, type : normal
+[sendTreeInfo] send to 172.17.0.55:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.80:8100, type : normal
+[sendTreeInfo] send to 172.17.0.80:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.32:8100, type : normal
+[sendTreeInfo] send to 172.17.0.32:8100 with message : makeTree|normal|172.17.0.64:8000
+[sendTreeInfo] node: 172.17.0.40:8100, type : normal
+[sendTreeInfo] send to 172.17.0.40:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.48:8100, type : normal
+[sendTreeInfo] send to 172.17.0.48:8100 with message : makeTree|normal|172.17.0.56:8000|172.17.0.80:8000
+[sendTreeInfo] node: 172.17.0.58:8100, type : normal
+[sendTreeInfo] send to 172.17.0.58:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.83:8100, type : normal
+[sendTreeInfo] send to 172.17.0.83:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.24:8100, type : normal
+[sendTreeInfo] send to 172.17.0.24:8100 with message : makeTree|normal|172.17.0.32:8000|172.17.0.40:8000|172.17.0.48:8000
+[sendTreeInfo] node: 172.17.0.54:8100, type : normal
+[sendTreeInfo] send to 172.17.0.54:8100 with message : makeTree|normal|172.17.0.62:8000|172.17.0.70:8000|172.17.0.78:8000
+[sendTreeInfo] node: 172.17.0.41:8100, type : normal
+[sendTreeInfo] send to 172.17.0.41:8100 with message : makeTree|normal|172.17.0.65:8000|172.17.0.81:8000
+[sendTreeInfo] node: 172.17.0.33:8100, type : normal
+[sendTreeInfo] send to 172.17.0.33:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.12:8100, type : normal
+[sendTreeInfo] send to 172.17.0.12:8100 with message : makeTree|normal|172.17.0.13:8000|172.17.0.20:8000|172.17.0.21:8000
+[sendTreeInfo] node: 172.17.0.63:8100, type : normal
+[sendTreeInfo] send to 172.17.0.63:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.76:8100, type : normal
+[sendTreeInfo] send to 172.17.0.76:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.13:8100, type : normal
+[sendTreeInfo] send to 172.17.0.13:8100 with message : makeTree|normal
+[sendTreeInfo] node: 172.17.0.59:8100, type : normal
+[sendTreeInfo] send to 172.17.0.59:8100 with message : makeTree|normal|172.17.0.75:8000
+[sendTreeInfo] node: 172.17.0.50:8100, type : normal
+[sendTreeInfo] send to 172.17.0.50:8100 with message : makeTree|normal|172.17.0.66:8000|172.17.0.74:8000
+[sendTreeInfo] node: 172.17.0.5:8100, type : normal
+[sendTreeInfo] send to 172.17.0.5:8100 with message : makeTree|normal|172.17.0.35:8000|172.17.0.42:8000|172.17.0.53:8000
+[startBlockTransmission] send message : startBlockTrans|1024
+Press Enter to exit.
+close socket
+[closeConnections] 172.17.0.24:8100 close
+[closeConnections] 172.17.0.63:8100 close
+[closeConnections] 172.17.0.76:8100 close
+[closeConnections] 172.17.0.13:8100 close
+[closeConnections] 172.17.0.59:8100 close
+[closeConnections] 172.17.0.54:8100 close
+[closeConnections] 172.17.0.41:8100 close
+[closeConnections] 172.17.0.33:8100 close
+[closeConnections] 172.17.0.12:8100 close
+[closeConnections] 172.17.0.50:8100 close
+[closeConnections] 172.17.0.5:8100 close
+[closeConnections] 172.17.0.49:8100 close
+[closeConnections] 172.17.0.81:8100 close
+[closeConnections] 172.17.0.51:8100 close
+[closeConnections] 172.17.0.57:8100 close
+[closeConnections] 172.17.0.74:8100 close
+[closeConnections] 172.17.0.82:8100 close
+[closeConnections] 172.17.0.77:8100 close
+[closeConnections] 172.17.0.42:8100 close
+[closeConnections] 172.17.0.28:8100 close
+[closeConnections] 172.17.0.69:8100 close
+[closeConnections] 172.17.0.53:8100 close
+[closeConnections] 172.17.0.52:8100 close
+[closeConnections] 172.17.0.34:8100 close
+[closeConnections] 172.17.0.68:8100 close
+[closeConnections] 172.17.0.31:8100 close
+[closeConnections] 172.17.0.27:8100 close
+[closeConnections] 172.17.0.65:8100 close
+[closeConnections] 172.17.0.60:8100 close
+[closeConnections] 172.17.0.35:8100 close
+[closeConnections] 172.17.0.21:8100 close
+[closeConnections] 172.17.0.44:8100 close
+[closeConnections] 172.17.0.79:8100 close
+[closeConnections] 172.17.0.46:8100 close
+[closeConnections] 172.17.0.6:8100 close
+[closeConnections] 172.17.0.25:8100 close
+[closeConnections] 172.17.0.29:8100 close
+[closeConnections] 172.17.0.61:8100 close
+[closeConnections] 172.17.0.72:8100 close
+[closeConnections] 172.17.0.36:8100 close
+[closeConnections] 172.17.0.37:8100 close
+[closeConnections] 172.17.0.75:8100 close
+[closeConnections] 172.17.0.45:8100 close
+[closeConnections] 172.17.0.39:8100 close
+[closeConnections] 172.17.0.8:8100 close
+[closeConnections] 172.17.0.64:8100 close
+[closeConnections] 172.17.0.30:8100 close
+[closeConnections] 172.17.0.9:8100 close
+[closeConnections] 172.17.0.11:8100 close
+[closeConnections] 172.17.0.71:8100 close
+[closeConnections] 172.17.0.70:8100 close
+[closeConnections] 172.17.0.18:8100 close
+[closeConnections] 172.17.0.15:8100 close
+[closeConnections] 172.17.0.38:8100 close
+[closeConnections] 172.17.0.20:8100 close
+[closeConnections] 172.17.0.16:8100 close
+[closeConnections] 172.17.0.43:8100 close
+[closeConnections] 172.17.0.7:8100 close
+[closeConnections] 172.17.0.84:8100 close
+[closeConnections] 172.17.0.22:8100 close
+[closeConnections] 172.17.0.17:8100 close
+[closeConnections] 172.17.0.67:8100 close
+[closeConnections] 172.17.0.73:8100 close
+[closeConnections] 172.17.0.23:8100 close
+[closeConnections] 172.17.0.26:8100 close
+[closeConnections] 172.17.0.47:8100 close
+[closeConnections] 172.17.0.78:8100 close
+[closeConnections] 172.17.0.66:8100 close
+[closeConnections] 172.17.0.14:8100 close
+[closeConnections] 172.17.0.55:8100 close
+[closeConnections] 172.17.0.56:8100 close
+[closeConnections] 172.17.0.19:8100 close
+[closeConnections] 172.17.0.10:8100 close
+[closeConnections] 172.17.0.62:8100 close
+[closeConnections] 172.17.0.48:8100 close
+[closeConnections] 172.17.0.58:8100 close
+[closeConnections] 172.17.0.83:8100 close
+[closeConnections] 172.17.0.80:8100 close
+[closeConnections] 172.17.0.32:8100 close
+[closeConnections] 172.17.0.40:8100 close

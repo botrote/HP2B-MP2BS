@@ -1,0 +1,50 @@
+syntax = "proto3";
+package utils;
+
+option go_package="./utils";
+
+/*
+*** MESSAGE.PROTO
+***
+***  this file declared the data types included in peer/validator's messages
+***  you can execute "make protoc" on the terminal to make message.pb.go inside utils/
+***
+ */
+
+// DATATYPE TO STORE THE INCIDENTAL INFORMATION
+message peer_signal {
+    //  this datas is usually made while calculating the peer's coordinate
+    bool    err_flag = 1; // (= there was an error when getting coordinate of peer)
+    repeated bool    sign = 2;
+    /* when implementing an axis-node, 
+        determine the sign of every exsiting axis-node's last coordinate value
+        ex. (a, b, 0, 0) -> (a, -b, 0, 0) / (a, b, c, 0) -> (a, b, -c, 0) ...
+        
+        if boolean has value 'true', it's (+), else it's (-). 
+        validator will change the stored coordinate's sign according to this.
+    */
+    string  peerlog = 3; // log from peer that shows the process of calculation.
+}
+
+// TYPE OF MESSAGE (FROM peer -> To validator)
+message peer_response {
+    peer_signal log = 1; // some incidental information
+    repeated float node = 2; // coordinate of the peer node
+    repeated float test = 3; // test result (estimated delay, measured delay, error(= the gap of two delay))
+}
+
+// DATATYPE TO STORE THE INFORMATION OF NODES (ID, COORDINATE, IPADDRESS)
+message nodeInfo {
+    int32           id = 1; // if validator is lookign for Kth node in coordinate, K will be an Id
+    repeated float  coord = 2; // coordinate of this node
+    string          node_ip = 3; // ipaddress of this node
+}
+
+// TYPE OF MESSAGE (FROM validator -> To peer)
+message t_data {
+    int32               ndim = 1; // dimension of coordinate
+    int32               myId = 2; // if validator is lookign for Kth node in coordinate, K will be an Id
+    int32               eventSig = 3; // evensig (1 : send this peer's coordinate, 2 : do self-cross-check, 3 : terminate this peer (from coordinate process))
+    repeated nodeInfo   refPoints = 4; // the information of reference points
+}
+

@@ -1,0 +1,19 @@
+FROM golang:1.17.7-alpine
+
+ENV GO111MODULE=on  \
+    CGO_ENABLE=0    \
+    GOOS=linux      \
+    GOARCH=amd64
+
+
+RUN apk add --no-cache bash
+RUN apk add bash
+
+WORKDIR /verify_node
+ADD verify_node /
+
+COPY verify_node/* ./
+
+RUN go build -o valclient tcpclient.go
+
+CMD ["./valclient"]

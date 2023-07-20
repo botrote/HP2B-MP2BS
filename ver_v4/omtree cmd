@@ -1,0 +1,2 @@
+docker exec -it mn.makepath /bin/bash
+python3 omtree_mesh_ndim_v2.py --childnum 3 --minMesh 1 --maxMesh 3 --port 12345

@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+ver_v4/result/
+ver_v4/mn_d/

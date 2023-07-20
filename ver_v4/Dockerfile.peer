@@ -1,0 +1,33 @@
+FROM golang:1.17.7-alpine
+
+ENV GO111MODULE=on  \
+    CGO_ENABLE=0    \
+    GOOS=linux      \
+    GOARCH=amd64
+
+WORKDIR /peer
+ADD peer /
+
+COPY peer/* ./
+COPY peer/utils/* ./utils/
+
+COPY v0.6/parti_node/* ./parti_node/
+
+COPY start_peer_node.go ./
+
+
+RUN apk add --no-cache bash
+RUN apk add bash
+
+
+RUN go mod download
+
+RUN go build -o pr_node peerNode.go
+
+RUN go build -o pr_make_tree ./parti_node/tcp_peer_servent.go ./parti_node/client_module.go ./parti_node/mcn_module.go
+
+RUN go build -o myprogram start_peer_node.go
+
+CMD ["./myprogram", "/bin/bash"]
+
+#CMD ["./pr_node", "/bin/bash"]

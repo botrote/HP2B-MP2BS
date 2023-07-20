@@ -1,0 +1,22 @@
+FROM golang:1.17.7-alpine
+
+ENV GO111MODULE=on  \
+    CGO_ENABLE=0    \
+    GOOS=linux      \
+    GOARCH=amd64
+
+
+RUN apk add --no-cache bash
+RUN apk add bash
+
+WORKDIR /validator
+ADD validator /
+
+COPY validator/* ./
+COPY validator/utils/* ./utils/
+
+RUN go mod download
+
+RUN go build -o val_node validatorNode.go
+
+CMD ["./val_node", "/bin/bash"]

@@ -1,0 +1,28 @@
+CONFIG_USER_WRR_WEIGHT = [5, 2] # default weight 5, 2
+
+VERBOSE_MODE = false
+PACKET_SIZE = 1500 # default size 1500 
+
+HELLO_PACKET = 1
+HELLO_ACK_PACKET = 2
+DATA_PACKET = 3
+GOODBYE_PACKET = 4
+
+# Anchor peer information
+NIC_NAMES = ["ethernet", "ethernet"]
+NIC_ADDRS = ["172.18.0.7:4251", "172.19.0.7:4252"]
+# NIC_NAMES = ["ethernet"]
+# NIC_ADDRS = ["172.18.0.7:4251"]
+
+# Node Info Packet 
+PEER_ADDRS = ["172.18.0.2", "172.18.0.3", "172.18.0.4", "172.18.0.5", "172.18.0.6"] 
+PEER_PORTs = [4242, 4343, 4444, 4545, 4646]
+NUM_OF_CHILDS = [2, 1, 1, 0, 0]
+OFFSET_OF_CHILDS = [1, 3, 4, 0, 0]        
+
+THROUGHPUT_PERIOD = 0.1 # sec
+THROUGHPUT_WEIGHT = 0.1 # 0 ~ 1.0
+MULTIPATH_THRESHOLD_THROUGHPUT = 10.0 # Mbps
+MULTIPATH_THRESHOLD_SEND_COMPLETE_TIME = 2.0 # sec 
+
+CLOSE_TIMEOUT_PERIOD = 200 # ms
